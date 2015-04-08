@@ -1,0 +1,25 @@
+{
+  "name": "algonoderithm",
+  "version": "1.0.0",
+  "description": "when science apply into industry. algonoderithm help you by providing most computer science algorithms wanted in the applications",
+  "main": "lib/index.js",
+  "scripts": {
+    "start": "node lib/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BigaDev/algonoderithm.git"
+  },
+  "keywords": [
+    "algorithms",
+    "computer",
+    "science",
+    "nlp"
+  ],
+  "author": "Biga Gaber <ahmedgabr292@gmail.com> (https://github.com/BigaDev)",
+  "license": "GNU GENERAL PUBLIC LICENSE",
+  "bugs": {
+    "url": "https://github.com/BigaDev/algonoderithm/issues"
+  },
+  "homepage": "https://github.com/BigaDev/algonoderithm"
+}
