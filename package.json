@@ -1,6 +1,6 @@
 {
   "name": "algonoderithm",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "description": "when science apply into industry. algonoderithm help you by providing most computer science algorithms wanted in the applications",
   "main": "lib/index.js",
   "scripts": {
