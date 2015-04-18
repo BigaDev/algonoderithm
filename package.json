@@ -1,7 +1,7 @@
 {
   "name": "algonoderithm",
   "version": "2.0.0",
-  "description": "when science apply into industry. algonoderithm help you by providing most computer science algorithms wanted in the applications",
+  "description": "algonoderithm help you by providing most computer science algorithms wanted in the applications.",
   "main": "lib/index.js",
   "scripts": {
     "start": "node lib/index.js"
