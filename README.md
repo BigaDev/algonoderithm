@@ -43,6 +43,32 @@ algonoderithm.haversin.do(point, points, function(err, data) {
     */
 });
 ```
+## Contribution 
+
+Our next level we need to implement these algorithms:
+
+1 - dijkstra (shortest path)
+
+2 - summarize text
+
+3 - radix sort
+
+4 - Auto-Tag URL ( This algorithm takes in a URL, retrieves the content, and produces candidate tags using LDA)
+
+anyone is welcome to contribute but please follow these rules:
+
+1 - anyone want to add a new algorithm to algonoderithm must checkout from master branch.
+
+2 - if you want to add a new algorithm the branch name must be "add-algo-NameOfAlgorithm".
+
+3 - if you found a bug and fix it the branch name must be "fix-NameOfFile".
+
+4 - any algorithm will be added into algonoderithm must have it's defination in defination.json and have what and do functions.
+
+5 - any pull request must merge into development branch.
+
+6 - if any pull request merge into master branch, it will be rejected.
+
 
 ## Release History
 
