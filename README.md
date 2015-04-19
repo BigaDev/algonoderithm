@@ -1,4 +1,4 @@
-# Algonoderithm
+# ![Alt text](/assets/images/name.png?raw=true "Algonoderithm")
 
 algonoderithm help you by providing most computer science algorithms wanted in the applications.
 
